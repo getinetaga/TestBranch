@@ -47,7 +47,7 @@ class MyAppState extends ChangeNotifier {
   }
 }
 
-// ...
+// ... the functionalities of the app 
 
 class MyHomePage extends StatefulWidget {
   @override
